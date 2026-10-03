@@ -1,0 +1,6 @@
+@PIIntegration_HostAddress = http://localhost:5039
+
+GET {{PIIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

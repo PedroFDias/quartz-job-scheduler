@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Integration/">
+    <Project Path="../../../../../../ProjetosFaculdade/Patrify/Patrify.MessageBus/Patrify.MessageBus.csproj" />
+  </Folder>
+  <Project Path="ISapOnPI/SAPIntegration.csproj" />
+  <Project Path="PIIntegration/PIIntegration.csproj" />
+  <Project Path="../../../../Downloads/IHM.Historian.PI/IHM.Historian.PI/IHM.Historian.PI.csproj" Id="fe30bd80-8829-495f-9931-61170e19e408" />
+  <Project Path="../../../../Downloads/IHM.Historian.PI/IHM.Historian/IHM.Historian.csproj" Id="09de7695-2e56-4a10-a2c6-deb911f65fb7" />
+</Solution>

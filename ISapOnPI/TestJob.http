@@ -1,0 +1,6 @@
+@SAPIntegration_HostAddress = http://localhost:5110
+
+GET {{SAPIntegration_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
